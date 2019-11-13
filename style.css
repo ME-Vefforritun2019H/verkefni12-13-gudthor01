@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    padding: auto;
+    font-size: 20px;
+    font-family: Georgia, sans-serif;
+    background-image: url("myndir/soccer.jpg");
+    color: white;
+    border-style: solid;
+    margin: initial;
+}
+
+h1{
+    color: cornsilk;
+    padding: 50px;
+}
+
+
